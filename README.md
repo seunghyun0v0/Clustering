@@ -2,4 +2,4 @@
 
 Introduction to AI
 
-submit Classification code
+submit Clustering code
